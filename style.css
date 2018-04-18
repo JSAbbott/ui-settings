@@ -1,0 +1,113 @@
+body {
+    height: 100%
+    padding: 0px;
+    margin: 0px;
+    font-family: "Lato", sans-serif !important;
+    background-image: url(img/philadelphia-2961865_1920.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+#container {
+    background-color: #ffffff;
+    height: 640px;
+    width: 360px;
+    margin: 0 auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.divider {
+    background-color: #1c7e7f;
+    height: 1px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.blueBox {
+    height: 35px;
+    width: 360px;
+    background-color: #1c7e7f;
+    margin-top: 50px;
+}
+
+/*------TEXTS------*/
+
+.topText {
+    padding-top: 10px;
+    margin-left: 5px;
+}
+
+.topInfo {
+    padding-top: 10px;
+    margin-left: 25px;
+}
+
+.secondText {
+    padding-top: 10px;
+    margin-left: 15px;
+}
+
+.thirdText {
+    padding-top: 10px;
+    margin-left: 15px;
+}
+
+.fourthText {
+    padding-top: 10px;
+    margin-left: 15px;
+}
+
+.blueBox p {
+    color: #ffffff;
+    text-align: center;
+    padding-top: 5px;
+}
+
+/*------FAVICON------*/
+.fa {
+    color: #000000;
+    font-size: 25px;
+    padding-top: 15px;
+}
+
+.fa-user {    
+    padding-left: 10px;
+}
+
+.fa-envelope {    
+    padding-left: 10px;
+}
+
+.fa-map-marker {    
+    padding-left: 10px;
+}
+
+.fa-chevron-right {    
+    padding-left: 10px;
+}
+
+.fa-toggle-off {    
+    padding-left: 40px;
+}
+
+.fa-toggle-on {    
+    padding-left: 40px;
+}
+
+.fa-facebook {    
+    padding-left: 10px;
+}
+
+.fa-twitter {    
+    padding-left: 10px;
+}
+
+.fa-google {    
+    padding-left: 10px;
+}
+
+.chevron {
+    margin-left: 50px;
+}
